@@ -57,6 +57,11 @@ Si es tu primera vez con skills, instala en este orden:
 
 Solo se aceptan repos que pasen los criterios de arriba.
 
+
+## APIs de datos públicos (Apify)
+
+- [publicrecords-skills](https://github.com/GeminiGeorge22/publicrecords-skills) - Agent Skills + MCP plugin (Claude Code, Codex, Copilot, Cursor, Gemini CLI, Kiro) for 18 public-data Apify Actors: SAM.gov, Grants.gov, USAspending, EU/UK tenders, council meetings, ATS jobs, company socials, Google Ads, Etsy, sports odds, Spotify.
+
 ## Licencia
 
 MIT — ver [LICENSE](LICENSE).
